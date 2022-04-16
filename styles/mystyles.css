@@ -1,0 +1,32 @@
+body { 
+    background-color: rgb(172, 211, 226);
+}
+.Link{
+    color: aliceblue;
+    text-align: center;
+
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    text-decoration: underline;
+}
+.justify{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: snow;
+    font-size: medium;
+}
+
+.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
